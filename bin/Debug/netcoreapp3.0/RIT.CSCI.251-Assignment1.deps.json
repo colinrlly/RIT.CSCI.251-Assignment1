@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RIT.CSCI.251-Assignment1/1.0.0": {
+        "runtime": {
+          "RIT.CSCI.251-Assignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RIT.CSCI.251-Assignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
