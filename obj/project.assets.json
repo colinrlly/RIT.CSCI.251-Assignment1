@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
-      "projectName": "RIT.CSCI.251-Assignment1",
-      "projectPath": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\du.csproj",
+      "projectName": "du",
+      "projectPath": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\du.csproj",
       "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\obj\\",
       "projectStyle": "PackageReference",
