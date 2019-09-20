@@ -9,3 +9,14 @@ C:\Users\colin\projects\rit\parallel\assignment1\RIT.CSCI.251-Assignment1\obj\De
 C:\Users\colin\projects\rit\parallel\assignment1\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.AssemblyInfo.cs
 C:\Users\colin\projects\rit\parallel\assignment1\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.dll
 C:\Users\colin\projects\rit\parallel\assignment1\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.pdb
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.csprojAssemblyReference.cache
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.AssemblyInfoInputs.cache
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.AssemblyInfo.cs
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.dll
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\obj\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.pdb
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.exe
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.deps.json
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.runtimeconfig.json
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.runtimeconfig.dev.json
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.dll
+C:\Users\colin\projects\rit\RIT.CSCI.251-Assignment1\bin\Debug\netcoreapp3.0\RIT.CSCI.251-Assignment1.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colin\\projects\\rit\\parallel\\assignment1\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj": {}
+    "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colin\\projects\\rit\\parallel\\assignment1\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj": {
+    "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colin\\projects\\rit\\parallel\\assignment1\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
         "projectName": "RIT.CSCI.251-Assignment1",
-        "projectPath": "C:\\Users\\colin\\projects\\rit\\parallel\\assignment1\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
+        "projectPath": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\RIT.CSCI.251-Assignment1.csproj",
         "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colin\\projects\\rit\\parallel\\assignment1\\RIT.CSCI.251-Assignment1\\obj\\",
+        "outputPath": "C:\\Users\\colin\\projects\\rit\\RIT.CSCI.251-Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config"
